@@ -1,6 +1,4 @@
-# devexpress_xaf_crm
-Devexpress Xaf Crm Project
-
+# Devexpress Xaf Crm Project
 
 ## Technologies
 ``C#``
