@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="dececf22-75f7-4c9b-8cd0-7e41692bb9f2" namespace="CRM.Module.BusinessObjects.Database" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="ConnectionString" createdInVersion="21.2.6.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="21.2.6.0" name="Database" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="8f8c2c7e-0175-4220-8487-b9d9812e10ef">
+      <comment Id="2bb8f80b-0ac3-4f20-81fd-88c39363c622" text="The 'PK_tbl_bayiler' index is ignored, because 'id' is a key" name="tbl_bayilerComment">
+        <subjects>
+          <commentReferencesSubjects Id="d7985142-6896-434f-bd89-375ee44abf27">
+            <xpObjectMoniker Id="0fd469a6-b164-479f-ae4f-89f333b20727" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="ad6990a5-e6d0-4405-a852-0c3734979982">
+      <comment Id="8e810a42-a306-48a0-b46e-098860897156" text="The 'PK_tbl_kargolar' index is ignored, because 'id' is a key" name="tbl_kargolarComment">
+        <subjects>
+          <commentReferencesSubjects Id="d9303b3c-4ed5-4855-986d-585cd47fc70c">
+            <xpObjectMoniker Id="9bada635-83ac-4305-8028-b8a3bfacb107" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="7e74aac3-b4bd-4d4f-bb89-b0233aa8254b">
+      <comment Id="ed270870-5034-4a32-b956-5b23f1ddc807" text="The 'PK_tbl_kargoSubesi' index is ignored, because 'id' is a key" name="tbl_kargoSubesiComment">
+        <subjects>
+          <commentReferencesSubjects Id="ec96377b-9fa6-40ea-b34e-850a388f375b">
+            <xpObjectMoniker Id="1b9f2e17-da84-4fc4-b1cf-eb5a930a4bf8" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="63c8ac22-6125-4a5a-b5fa-3cb39e2525d6">
+      <comment Id="5facbf41-cadc-4841-b194-f59bf97704ea" text="The 'PK_tbl_musteriler' index is ignored, because 'id' is a key" name="tbl_musterilerComment">
+        <subjects>
+          <commentReferencesSubjects Id="65af2d48-a0b0-4a48-8f9b-6a5db1a8f853">
+            <xpObjectMoniker Id="f5126058-4947-41e9-8a06-2c0ba0a5eb79" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="5c9a400e-e7bd-4fe8-ab1b-9033bea0b6dd">
+      <comment Id="8f1eac94-e19b-4761-8e37-32681d82e9dd" text="The 'PK_tbl_urunler' index is ignored, because 'id' is a key" name="tbl_urunlerComment">
+        <subjects>
+          <commentReferencesSubjects Id="08aaac6f-bedc-44f1-8b01-9f02a0fb5d34">
+            <xpObjectMoniker Id="fe634fb3-8e25-4cd0-8340-b8f353381847" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="8a2709d0-4794-4eca-b791-ce6d92bdc30d">
+      <xpObject Id="0fd469a6-b164-479f-ae4f-89f333b20727" name="Bayiler" baseClass="XPLiteObject" userFileName="Bayiler" designerFileName="Bayiler.Designer" className="Bayiler" initialName="tbl_bayiler" virtualBaseClass="XPLiteObject" persistent="tbl_bayiler" virtualName="Bayiler">
+        <fields>
+          <generalXpObjectHasFields Id="15e27766-7121-471e-9bb9-aafaa8ecdb8a">
+            <field Id="eb41f6a9-a248-4d42-9dbf-d1ed8b0fca5f" name="id" columnType="Int32" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5f74ec69-ff9a-4970-a68d-da96e28b2d8b">
+            <field Id="46732753-6246-4144-b112-7d4d165658c4" name="bayi_adi" initialName="bayi_adi" persistent="bayi_adi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e4d5016d-6448-4234-a760-3f8ba37a8dd8">
+            <field Id="7a8fcb25-2d4b-4d35-a75b-b7a79ed3bba7" name="bayi_adresi" initialName="bayi_adresi" persistent="bayi_adresi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="8dcd2115-5e46-41e0-90c7-d7314c48d21b">
+      <xpObject Id="9bada635-83ac-4305-8028-b8a3bfacb107" name="Kargolar" baseClass="XPLiteObject" userFileName="Kargolar" designerFileName="Kargolar.Designer" className="Kargolar" initialName="tbl_kargolar" virtualBaseClass="XPLiteObject" persistent="tbl_kargolar" virtualName="Kargolar">
+        <fields>
+          <generalXpObjectHasFields Id="9058fb03-b946-4631-902e-143cc58ea08d">
+            <field Id="58441e25-5685-427c-bf99-6b2fd5a7acf9" name="id" columnType="Int32" initialName="id" key="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="840dbaa3-f1fa-4534-8a41-65207f415eaf">
+            <field Id="eaf35599-c8bb-4443-9d2a-063b1659ce45" name="kargo_adi" initialName="kargo_adi" persistent="kargo_adi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="7e1456b1-6e36-47c5-93ab-12dd9c1fe232">
+      <xpObject Id="1b9f2e17-da84-4fc4-b1cf-eb5a930a4bf8" name="KargoSubesi" baseClass="XPLiteObject" userFileName="KargoSubesi" designerFileName="KargoSubesi.Designer" className="KargoSubesi" initialName="tbl_kargoSubesi" virtualBaseClass="XPLiteObject" persistent="tbl_kargoSubesi" virtualName="KargoSubesi">
+        <fields>
+          <generalXpObjectHasFields Id="7c50234e-7e32-4316-9372-0910b13d66bb">
+            <field Id="24f5da5f-8884-458e-ae96-4bb345267f3c" name="id" columnType="Int32" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="082a2abc-ae43-4e45-a954-d31b239e3625">
+            <field Id="030b6ddf-470d-413f-aa48-f97fb52741c3" name="kargo_subesi" initialName="kargo_subesi" persistent="kargo_subesi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0149b337-f70b-429f-9435-a63f23670371">
+            <field Id="d76b0032-912e-4ea3-8ed8-14ab7cd5ac02" name="kargo_adresi" initialName="kargo_adresi" persistent="kargo_adresi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="f6fdbee2-7cda-463d-a515-2a74f2bb07a0">
+      <xpObject Id="f5126058-4947-41e9-8a06-2c0ba0a5eb79" name="Musteriler" baseClass="XPLiteObject" userFileName="Musteriler" designerFileName="Musteriler.Designer" className="Musteriler" initialName="tbl_musteriler" virtualBaseClass="XPLiteObject" persistent="tbl_musteriler" virtualName="Musteriler">
+        <fields>
+          <generalXpObjectHasFields Id="ef2db8bc-9949-4bc8-8ced-ff2fcf9263b1">
+            <field Id="1734922c-b3a5-4157-9365-c5bb85f947e3" name="id" columnType="Int32" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="df43b342-ff9a-46b2-afc2-edac79db3f78">
+            <field Id="ef7729b0-e7ae-4398-8283-80ec87954f99" name="musteri_adi" initialName="musteri_adi" persistent="musteri_adi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="bb55ffcb-26a1-4c20-9977-be6a06bc55a4">
+            <field Id="acfd889f-ab32-44db-80d8-07bed1ce70e3" name="musteri_adresi" initialName="musteri_adresi" persistent="musteri_adresi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="609a1fa0-79dd-47fc-911b-5d60eeac2920">
+            <field Id="1805eb6f-b16f-4f7a-8c6a-44e9f6e71bdf" name="musteri_tel" initialName="musteri_tel" persistent="musteri_tel" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="10" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="cb084ff1-9435-4b17-a07a-04acf6b3f729">
+      <xpObject Id="fe634fb3-8e25-4cd0-8340-b8f353381847" name="Urunler" baseClass="XPLiteObject" userFileName="Urunler" designerFileName="Urunler.Designer" className="Urunler" initialName="tbl_urunler" virtualBaseClass="XPLiteObject" persistent="tbl_urunler" virtualName="Urunler">
+        <fields>
+          <generalXpObjectHasFields Id="0904ffd9-79e7-4292-8cc3-1854ebfc71a0">
+            <field Id="28e3495c-5a5c-4e5a-8131-6ca2d43c08eb" name="id" columnType="Int32" initialName="id" key="true" isIdentity="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="421a2359-62d9-4845-a88f-5ef94f0b7def">
+            <field Id="335b0a54-7026-4d22-b346-36c9efb7b962" name="urun_adi" initialName="urun_adi" persistent="urun_adi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7d184523-e71f-4671-aca4-cd4ffc7d7835">
+            <field Id="2cd3180a-4d36-4d95-83ee-07920a748cd1" name="urun_rengi" initialName="urun_rengi" persistent="urun_rengi" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

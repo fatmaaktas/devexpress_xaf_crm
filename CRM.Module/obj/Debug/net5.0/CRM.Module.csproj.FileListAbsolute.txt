@@ -1,0 +1,13 @@
+C:\Sources_2010\CRM\CRM.Module\bin\Debug\net5.0\CRM.Module.deps.json
+C:\Sources_2010\CRM\CRM.Module\bin\Debug\net5.0\CRM.Module.dll
+C:\Sources_2010\CRM\CRM.Module\bin\Debug\net5.0\CRM.Module.pdb
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.csproj.AssemblyReference.cache
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.AssemblyInfoInputs.cache
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.AssemblyInfo.cs
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.csproj.CoreCompileInputs.cache
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.dll
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\refint\CRM.Module.dll
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\CRM.Module.pdb
+C:\Sources_2010\CRM\CRM.Module\obj\Debug\net5.0\ref\CRM.Module.dll
+C:\Sources_2010\CRM\CRM.Module\bin\Debug\net5.0\appsettings.json

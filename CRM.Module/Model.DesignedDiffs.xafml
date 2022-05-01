@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CRM">
+  <ActionDesign>
+    <Actions>
+      <Action Id="Cancel" Caption="İptal" />
+      <Action Id="CancelAction" Caption="İptal" />
+      <Action Id="Delete" Caption="Sil" ConfirmationMessage="Seçili kayıtları silmek üzeresiniz. Devam etmek istiyor musunuz?" />
+      <Action Id="Delete Item" ConfirmationMessage="Seçili öğeyi/öğeleri silmek üzeresiniz. Devam etmek istiyor musunuz?" Caption="Ögeyi Sil" />
+      <Action Id="DialogCancel" Caption="İptal" />
+      <Action Id="DialogClose" Caption="Kapat" />
+      <Action Id="DialogOK" Caption="Tamam" />
+      <Action Id="FullTextSearch" NullValuePrompt="Aramak için metin girin..." Caption="Filtrele" />
+      <Action Id="Logoff" Caption="Çıkış Yap" />
+      <Action Id="Logon" Caption="Giriş Yap" />
+      <Action Id="New" Caption="Yeni" />
+      <Action Id="NextObject" Caption="Sonraki Kayıt" />
+      <Action Id="PreviousObject" Caption="Önceki Kayıt" />
+      <Action Id="Refresh" Caption="Yenile" />
+      <Action Id="RefreshAction" Caption="Yenile" />
+      <Action Id="Save" Caption="Kaydet" />
+      <Action Id="SaveAndClose" Caption="Kaydet ve Kapat" />
+      <Action Id="SaveAndNew" Caption="Kaydet ve Yeni" />
+    </Actions>
+  </ActionDesign>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="21.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Bayiler_Kargolars_ListView" AllowNew="True" />
+    <ListView Id="Bayiler_Urunlers_ListView" AllowNew="True" />
+    <ListView Id="Kargolar_Bayilers_ListView" AllowLink="True" AllowNew="False" />
+    <ListView Id="Urunler_Bayilers_ListView" AllowNew="False" />
+  </Views>
+</Application>
