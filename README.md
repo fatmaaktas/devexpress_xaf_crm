@@ -1,6 +1,16 @@
 # devexpress_xaf_crm
 Devexpress Xaf Crm Projesi
 
+
+## Technologies
+``C#``
+``Devexpress Xaf``
+
+## Development server
+`Build Solutions`
+Run `IIS Express` for a dev server. Navigate to `https://localhost:44318/`. The app will automatically reload if you change any of the source files.
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49655751/166154291-5e2c605c-91bf-41e7-a019-2b219d169bb0.png">
 <img src="https://user-images.githubusercontent.com/49655751/166154336-fac37be1-a45a-4f20-9209-eb2213c5054f.png">
@@ -12,10 +22,3 @@ Devexpress Xaf Crm Projesi
 </p>
 
 
-Technologies;
-*C#
-*Devexpress Xaf 
-
-## Development server
-`Build Solutions`
-Run `IIS Express` for a dev server. Navigate to `https://localhost:44318/`. The app will automatically reload if you change any of the source files.
